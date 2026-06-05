@@ -27,7 +27,7 @@ HTML • CSS • Git • GitHub • Oracle Cloud • VS Code
 
 ### Deepfake Detection System
 - Built and evaluated 6 deep learning architectures
-- Achieved 94.2% accuracy using a Convolutional Vision Transformer
+- Achieved 94.2% accuracy
 - Developed complete preprocessing and training pipeline
 
 ### Placement Eligibility Prediction System
