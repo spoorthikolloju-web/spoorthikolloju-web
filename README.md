@@ -1,6 +1,6 @@
 # Hi, I'm Spoorthi 👋
 
-🎓 Computer Science Undergraduate (GPA: 8.6/10)
+🎓 Currently a second-year Computer Science Undergraduate (GPA: 8.6/10)
 
 I'm passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Data Analytics. I enjoy building end-to-end ML systems, experimenting with computer vision models, and developing practical software solutions.
 
