@@ -25,18 +25,18 @@ HTML • CSS • Git • GitHub • Oracle Cloud • VS Code
 
 ## 📌 Featured Projects
 
-### Deepfake Detection System
+### Deepfake Detection System (DeepLearning)
 - Built and evaluated 6 deep learning architectures
 - Achieved 94.2% accuracy
 - Developed complete preprocessing and training pipeline
 
-### Movie Recommendation System (Alternative Version)
+### Movie Recommendation System (Machine Learning)
 - Implemented a recommendation engine using SVD Matrix Factorization for personalized movie suggestions.
 - Performed data cleaning, exploratory data analysis, and user-item interaction modeling.
 - Tuned model hyperparameters to improve recommendation accuracy and prediction quality.
 - Developed an interactive Streamlit web application for real-time movie recommendations.
 
-### Image Classification using CNNs
+### Image Classification using CNNs (Computer Vision)
 - Custom PyTorch CNN architecture
 - Data augmentation and hyperparameter tuning
 - Multi-class image classification pipeline
