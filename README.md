@@ -4,7 +4,7 @@
 
 I'm passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Data Analytics. I enjoy building end-to-end ML systems, experimenting with computer vision models, and developing practical software solutions.
 
-## 🚀 Current Focus
+##  Current Focus
 
 - Deep Learning & Computer Vision
 - Machine Learning Model Development
@@ -12,7 +12,7 @@ I'm passionate about Artificial Intelligence, Machine Learning, Deep Learning, a
 - Java Backend Development
 - Open Source & GitHub Projects
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 Python • Java • C • SQL • JavaScript
